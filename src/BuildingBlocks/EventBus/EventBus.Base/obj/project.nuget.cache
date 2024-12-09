@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzuKkQ9/M9c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oztur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\oztur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
