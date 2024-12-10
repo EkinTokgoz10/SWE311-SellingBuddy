@@ -11,6 +11,7 @@ using System.IO.Compression;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace CatalogService.Api.Infrastructure.Context
 {
    public class CatalogContextSeed
