@@ -32,6 +32,28 @@ namespace PaymentService.Api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PaymentService.Api", Version = "v1" });
             });
+
+           services.AddLogging(configure => 
+           { 
+                configure.AddConsole(); 
+                configure.AddDebug();
+            });
+          
+           services.AddTransient<OrderStartedIntegrationEventHandler>();
+
+           services.AddSingleton<IEventBus>(sp =>
+           {
+               EventBusConfig config = new()
+               {
+                   ConnectionRetryCount = 5,
+                   EventNameSuffix = "IntegrationEvent",
+                   SubscriberClientAppName = "PaymentService",
+                   EventBusType = EventBusType.RabbitMQ
+                };
+            
+                return EventBusFactory.Create(config, sp);
+            });
+        
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -54,6 +76,11 @@ namespace PaymentService.Api
             {
                 endpoints.MapControllers();
             });
+
+
+            IEventBus eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
+            eventBus.Subscribe<OrderStartedIntegrationEvent, OrderStartedIntegrationEventHandler>();
+
         }
     }
 }
