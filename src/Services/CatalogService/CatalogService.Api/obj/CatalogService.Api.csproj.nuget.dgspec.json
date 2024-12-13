@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj": {}
+    "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj": {
+    "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+        "projectUniqueName": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
         "projectName": "CatalogService.Api",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
-        "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\obj\\",
+        "projectPath": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+        "packagesPath": "C:\\Users\\ahmtk\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ahmtk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,9 +46,25 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
             }
           },
           "imports": [
@@ -66,6 +78,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
