@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNezOxs+0yE=",
+  "dgSpecHash": "nuAccAso+A4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oztur\\.nuget\\packages\\microsoft.azure.amqp\\2.4.11\\microsoft.azure.amqp.2.4.11.nupkg.sha512",
     "C:\\Users\\oztur\\.nuget\\packages\\microsoft.azure.servicebus\\5.2.0\\microsoft.azure.servicebus.5.2.0.nupkg.sha512",

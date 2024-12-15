@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {}
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "projectName": "EventBus.AzureServiceBus",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "projectName": "EventBus.Base",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
         "projectName": "EventBus.Factory",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,14 +187,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
-                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj"
+              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj"
               },
-              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               },
-              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
-                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
+              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "projectName": "EventBus.RabbitMQ",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -262,8 +262,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               }
             }
           }

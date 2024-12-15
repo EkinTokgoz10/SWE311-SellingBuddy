@@ -6350,19 +6350,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahmtk\\.nuget\\packages\\": {}
+    "C:\\Users\\oztur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
       "projectName": "CatalogService.Api",
-      "projectPath": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
-      "packagesPath": "C:\\Users\\ahmtk\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ahmtk\\OneDrive\\Belgeler\\GitHub\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\obj\\",
+      "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+      "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ahmtk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oztur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6426,24 +6431,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -6461,7 +6448,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Data.SqlClient' 4.8.2 paketinde önem derecesi orta olan bilinen bir https://github.com/advisories/GHSA-8g2p-5pqh-5jmc güvenlik açığı var",
+      "message": "Package 'System.Data.SqlClient' 4.8.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-8g2p-5pqh-5jmc",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net5.0"
@@ -6471,7 +6458,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "'System.Data.SqlClient' 4.8.2 paketinde önem derecesi yüksek olan bilinen bir https://github.com/advisories/GHSA-98g6-xh36-x2p7 güvenlik açığı var",
+      "message": "Package 'System.Data.SqlClient' 4.8.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
       "libraryId": "System.Data.SqlClient",
       "targetGraphs": [
         "net5.0"

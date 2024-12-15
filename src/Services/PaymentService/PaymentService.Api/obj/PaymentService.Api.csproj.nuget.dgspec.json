@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {}
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {
+    "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
         "projectName": "PaymentService.Api",
-        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "projectPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
         "packagesPath": "C:\\Users\\oztur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\obj\\",
+        "outputPath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\Services\\PaymentService\\PaymentService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OrderService.Infrastructure
-build_property.ProjectDir = C:\Users\ahmtk\OneDrive\Belgeler\GitHub\SWE311-SellingBuddy\src\Services\OrderService\OrderService.Infrastructure\
+build_property.ProjectDir = C:\Users\oztur\OneDrive\Masaüstü\ekinask\SWE311-SellingBuddy\src\Services\OrderService\OrderService.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\SellingBuddy\\",
+  "WorkspaceRootPath": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1D18418-7DEA-4797-A76F-6BEC20DB1178}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\sellingbuddy\\src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1D18418-7DEA-4797-A76F-6BEC20DB1178}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\ekinask\\swe311-sellingbuddy\\src\\services\\identityservice\\identityservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|solutionrelative:src\\services\\identityservice\\identityservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB0D0DA4-236E-4859-9F1D-DB79B00B6D09}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\sellingbuddy\\src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0D0DA4-236E-4859-9F1D-DB79B00B6D09}|src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj|solutionrelative:src\\buildingblocks\\eventbus\\eventbus.azureservicebus\\eventbusservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\ekinask\\swe311-sellingbuddy\\src\\services\\identityservice\\identityservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|solutionrelative:src\\services\\identityservice\\identityservice.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\ekinask\\swe311-sellingbuddy\\src\\services\\identityservice\\identityservice.api\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|solutionrelative:src\\services\\identityservice\\identityservice.api\\application\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|c:\\users\\oztur\\onedrive\\masa\u00FCst\u00FC\\ekinask\\swe311-sellingbuddy\\src\\services\\identityservice\\identityservice.api\\application\\services\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDD39-F1DB-4591-9389-D44D84933A37}|src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj|solutionrelative:src\\services\\identityservice\\identityservice.api\\application\\services\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\SellingBuddy\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:40:08.677Z",
+              "WhenOpened": "2024-12-15T14:56:41.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventBusServiceBus.cs",
-              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBusServiceBus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Startup.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T16:34:57.785Z",
+              "WhenOpened": "2024-12-15T14:55:05.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:51:45.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\oztur\\OneDrive\\Masa\u00FCst\u00FC\\ekinask\\SWE311-SellingBuddy\\src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
+              "RelativeToolTip": "src\\Services\\IdentityService\\IdentityService.Api\\Application\\Services\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:50:26.032Z",
               "EditorCaption": ""
             }
           ]

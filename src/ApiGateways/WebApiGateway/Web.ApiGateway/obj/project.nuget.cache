@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xOgSKhj3Sq4=",
+  "dgSpecHash": "BRmeCqZCVpo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\oztur\\OneDrive\\Masaüstü\\ekinask\\SWE311-SellingBuddy\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oztur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\oztur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
