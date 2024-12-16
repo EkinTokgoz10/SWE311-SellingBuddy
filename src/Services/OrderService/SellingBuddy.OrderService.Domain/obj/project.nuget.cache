@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MdZaTYa8CQ=",
+  "success": true,
+  "projectFilePath": "D:\\SWE311-SellingBuddy\\src\\Services\\OrderService\\SellingBuddy.OrderService.Domain\\SellingBuddy.OrderService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oztur\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\oztur\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\oztur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z7+jSzON0bIGWgQ7LoTpLQdQEq7Ue4u7cEijGWsK6R8=",
+  "Source": "SellingBuddy.IdentityService.Api",
+  "BasePath": "_content/SellingBuddy.IdentityService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

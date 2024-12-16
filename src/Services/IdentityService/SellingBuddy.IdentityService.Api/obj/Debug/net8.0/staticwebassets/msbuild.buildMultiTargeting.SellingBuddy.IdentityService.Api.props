@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SellingBuddy.IdentityService.Api.props" />
+</Project>

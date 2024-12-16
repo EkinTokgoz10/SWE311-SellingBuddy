@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t2pMKupj8PMi8Yv6IU2wvqePt5D3gA0w5Ff6yBOL9u0=",
+  "Source": "SellingBuddy.Web.ApiGateway",
+  "BasePath": "_content/SellingBuddy.Web.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

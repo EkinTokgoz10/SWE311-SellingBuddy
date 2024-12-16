@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SellingBuddy.Web.ApiGateway.props" />
+</Project>
